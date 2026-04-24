@@ -1,0 +1,23 @@
+{
+  "contacts": [
+    {
+      "id": "1HGxnVxZVM4",
+      "name": "John Dupont",
+      "email": "alice@gmail.com",
+      "phone": "0123456789"
+    },
+    {
+      "id": "34XjZkfS_9U",
+      "name": "Bob Martin",
+      "email": "bob@gmail.com",
+      "phone": "0123456789"
+    },
+    {
+      "id": "DjOoqyIusyU",
+      "name": "sofiya alexan",
+      "email": "sofiya@gmail.com",
+      "phone": "0123456789"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
